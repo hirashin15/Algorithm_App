@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Algorithm_App</string>
+    <string name="algoName">Algo Name</string>
+    <string name="date">Date</string>
+    <string name="completed">Completed</string>
+    <string name="graphHeader">Progress Report</string>
+    <string-array name="topics">
+        <item>Arrays</item>
+        <item>Dictionaries and Hashmaps</item>
+        <item>Sorting</item>
+        <item>String Manipulation</item>
+        <item>Greedy Algorithms</item>
+        <item>Search</item>
+        <item>Dynamic Programming</item>
+        <item>Stacks and Queues</item>
+        <item>Graphs</item>
+        <item>Trees</item>
+        <item>Linked Lists</item>
+        <item>Recursion and Backtracking</item>
+        <item>Miscellaneous</item>
+    </string-array>
+</resources>
